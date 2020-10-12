@@ -1,0 +1,6 @@
+Number of lines (without comments) of FileChooserClass.java is 22
+1. : public class FileChooserClass {
+2. : 	StringBuilder s = new StringBuilder();
+3. : 	public void pick_me() throws FileNotFoundException {
+Number of key words: 3
+Total execution time in milliseconds: 6 ms
